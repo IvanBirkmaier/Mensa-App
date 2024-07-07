@@ -1,24 +1,23 @@
 # Mensa-App
 🇩🇪 **Deutsch**
-
 ## Technologie-Stack
-**Java Version**: 16
-**Frameworks und Bibliotheken**:
-- Spring Boot 2.5.5
-- Spring Dependency Management 1.0.11.RELEASE
-- Spring Boot Starter Thymeleaf
-- Spring Boot Starter Web
-- Spring Boot Starter Data JPA
-- Oracle JDBC (ojdbc8)
-- Spring Boot DevTools
-- Spring Boot Starter Test (JUnit Platform)
-**Frontend-Technologien**:
-- JavaScript
-- CSS
-- HTML
-**APIs**:
-- Google Maps API
-- OpenMensa API
+- **Java Version**: 16
+- **Frameworks und Bibliotheken**:
+  - Spring Boot 2.5.5
+  - Spring Dependency Management 1.0.11.RELEASE
+  - Spring Boot Starter Thymeleaf
+  - Spring Boot Starter Web
+  - Spring Boot Starter Data JPA
+  - Oracle JDBC (ojdbc8)
+  - Spring Boot DevTools
+  - Spring Boot Starter Test (JUnit Platform)
+  - **Frontend-Technologien**:
+  - JavaScript
+  - CSS
+  - HTML
+- **APIs**:
+  - Google Maps API
+  - OpenMensa API
   
 ## Beschreibung
 Willkommen im Repository für meine Progressive Web App (PWA), die verschiedene Funktionen bietet, darunter die Möglichkeit, Informationen über Mensen in Deutschland auf einer Weltkarte anzuzeigen. Diese App nutzt moderne Webtechnologien, um sowohl auf mobilen als auch auf Desktop-Geräten eine nahtlose, app-ähnliche Erfahrung zu bieten. Benutzer können detaillierte Speisekarten ausgewählter Mensen anzeigen und ihre Favoriten für einfachen Zugriff speichern.
@@ -42,23 +41,23 @@ Willkommen im Repository für meine Progressive Web App (PWA), die verschiedene 
 🇬🇧 **English**
 
 ## Tech Stack
-**Java Version**: 16
-**Frameworks and Libraries**:
-- Spring Boot 2.5.5
-- Spring Dependency Management 1.0.11.RELEASE
-- Spring Boot Starter Thymeleaf
-- Spring Boot Starter Web
-- Spring Boot Starter Data JPA
-- Oracle JDBC (ojdbc8)
-- Spring Boot DevTools
-- Spring Boot Starter Test (JUnit Platform)
-**Frontend Technologies**:
-- JavaScript
-- CSS
-- HTML
-**APIs**:
-- Google Maps API
-- OpenMensa API
+- **Java Version**: 16
+- **Frameworks and Libraries**:
+  - Spring Boot 2.5.5
+  - Spring Dependency Management 1.0.11.RELEASE
+  - Spring Boot Starter Thymeleaf
+  - Spring Boot Starter Web
+  - Spring Boot Starter Data JPA
+  - Oracle JDBC (ojdbc8)
+  - Spring Boot DevTools
+  - Spring Boot Starter Test (JUnit Platform)
+- **Frontend Technologies**:
+  - JavaScript
+  - CSS
+  - HTML
+- **APIs**:
+  - Google Maps API
+  - OpenMensa API
 
 ## Description
 Welcome to the repository for my Progressive Web App (PWA) that offers various features, including the ability to display information about cafeterias (Mensen) in Germany on a world map. This app leverages modern web technologies to provide a seamless, app-like experience on both mobile and desktop devices. Users can view detailed menus of selected cafeterias and save their favorites for easy access.
